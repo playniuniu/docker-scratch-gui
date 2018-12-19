@@ -3,12 +3,12 @@
 ## RUN
 
 ```bash
-docker run -d -p 8601:8601 --name scratch playniuniu/scratch-gui
+docker run -d -p 8080:80 --name scratch playniuniu/scratch-gui
 ```
 
-Open it with your browser  
+Open it with your browser
 
-http://localhost:8601
+[http://localhost:8080](http://localhost:8080)
 
 ## Notices
 
